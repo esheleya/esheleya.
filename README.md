@@ -1,6 +1,8 @@
 ### Olá, eu sou a Esheleya! 👋
-Atualemnte terminando Análise e Desenvolvimento de Sistemas
+Atualmente terminando Análise e Desenvolvimento de Sistemas
+
 Assistente de TI na empresa Virtron Energia Solar
+
 Nadando entre programção e insfraesrutura 
 
 <p align="left">
