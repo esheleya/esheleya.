@@ -3,7 +3,7 @@ Atualmente terminando Análise e Desenvolvimento de Sistemas
 
 Assistente de TI na empresa Virtron Energia Solar
 
-Nadando entre programção e insfraesrutura 
+Nadando entre programação e insfraesrutura 
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40"/>
